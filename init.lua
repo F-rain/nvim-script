@@ -1,0 +1,5 @@
+require("basic")
+require("plugins")
+require("keymap")
+require("colorscheme")
+require("plugin-config.nvim-tree")
